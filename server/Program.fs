@@ -1,7 +1,6 @@
 ﻿open Suave
 open Suave.Filters
 open Suave.Operators
-open Newtonsoft.Json
 
 let app = 
     choose [
